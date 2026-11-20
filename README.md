@@ -8,3 +8,4 @@ Topics include:
 - Should we recognize a human right to immigrate?
 - Should consumers stop buying products that are produced in sweatshops?
 - Does Bayesianism provide a satisfactory account of confirmation?
+- On how to make our ideas clear

@@ -1,0 +1,2 @@
+# undergrad_philosophy_esssays
+This repository contains philosophy essays I wrote during my undergrad at King's College London. Some more successful than others. The typical feedback was that I wrote clearly and persuasively but lacked engagement with wider literature. This is unsurprising as I had often failed to read the wider literature, struggling to manage my time during my undergrad in London. 
